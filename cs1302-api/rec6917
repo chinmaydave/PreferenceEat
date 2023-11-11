@@ -1,0 +1,123 @@
+cs1302-api:
+total 1168
+-rw-r--r--. 1 myid    6662 May  5 09:05 APPENDIX_API.rst
+-rw-r--r--. 1 myid    4205 May  5 09:05 APPENDIX_GIT.rst
+-rw-r--r--. 1 myid 1119416 Nov  3  2022 java-client.zip
+drwxr-xr-x. 2 myid      33 May  5 09:05 meta
+-rw-r--r--. 1 myid    8370 May  6 12:09 pom.xml
+-rwxr-xr-x. 1 myid     105 May  5 09:05 prepare-merge.sh
+-rw-r--r--. 1 myid   26044 May  5 09:05 README.rst
+-rw-r--r--. 1 myid    4232 May  8 12:03 rec1474
+-rw-r--r--. 1 myid       0 May  8 12:05 rec6917
+drwxr-xr-x. 2 myid      98 May  5 09:05 resources
+-rwxr-xr-x. 1 myid     126 May  8 11:58 run.sh
+drwxr-xr-x. 4 myid      42 May  5 09:05 src
+drwxr-xr-x. 5 myid      82 May  8 11:59 target
+
+cs1302-api/meta:
+total 4
+-rw-r--r--. 1 myid 899 May  5 09:05 DEADLINE.md
+
+cs1302-api/resources:
+total 2084
+-rw-r--r--. 1 myid      42 May  5 09:05 config.properties
+-rw-r--r--. 1 myid  582183 May  5 09:05 readme-banner.png
+-rw-r--r--. 1 myid 1540930 May  5 09:05 readme-newrepo.png
+
+cs1302-api/src:
+total 0
+drwxr-xr-x. 3 myid 26 May  5 09:05 main
+drwxr-xr-x. 3 myid 50 May  5 09:05 site
+
+cs1302-api/src/main:
+total 0
+drwxr-xr-x. 3 myid 56 May  5 09:05 java
+
+cs1302-api/src/main/java:
+total 4
+drwxr-xr-x. 3 myid  60 May  6 17:10 cs1302
+-rw-r--r--. 1 myid 373 May  5 09:05 module-info.java
+
+cs1302-api/src/main/java/cs1302:
+total 8
+drwxr-xr-x. 2 myid 4096 May  8 11:08 api
+-rw-r--r--. 1 myid  140 May  7 15:30 IngredientsResults.java
+
+cs1302-api/src/main/java/cs1302/api:
+total 52
+-rw-r--r--. 1 myid 12823 May  8 12:02 ApiApp.java
+-rw-r--r--. 1 myid  1285 May  5 09:05 ApiDriver.java
+-rw-r--r--. 1 myid   168 May  8 02:21 IngredientsResponse.java
+-rw-r--r--. 1 myid   171 May  6 17:40 ItunesResponse.java
+-rw-r--r--. 1 myid   169 May  8 02:50 ItunesResult.java
+-rw-r--r--. 1 myid   107 May  6 16:51 MealsResponse.java
+-rw-r--r--. 1 myid   114 May  7 21:04 MealsResult.java
+-rw-r--r--. 1 myid  4332 May  5 09:05 OpenLibrarySearchApi.java
+-rw-r--r--. 1 myid  1670 May  5 09:05 PropertiesExample.java
+
+cs1302-api/src/site:
+total 4
+drwxr-xr-x. 2 myid  25 May  5 09:05 markdown
+-rw-r--r--. 1 myid 424 May  5 09:05 site.xml
+
+cs1302-api/src/site/markdown:
+total 4
+-rw-r--r--. 1 myid 133 May  5 09:05 index.md.vm
+
+cs1302-api/target:
+total 0
+drwxr-xr-x. 3 myid 121 May  8 11:59 classes
+drwxr-xr-x. 3 myid  33 May  8 11:59 generated-sources
+drwxr-xr-x. 3 myid  35 May  8 11:59 maven-status
+
+cs1302-api/target/classes:
+total 2088
+-rw-r--r--. 1 myid      42 May  8 11:59 config.properties
+drwxr-xr-x. 3 myid      17 May  8 11:59 cs1302
+-rw-r--r--. 1 myid     354 May  8 11:59 module-info.class
+-rw-r--r--. 1 myid  582183 May  8 11:59 readme-banner.png
+-rw-r--r--. 1 myid 1540930 May  8 11:59 readme-newrepo.png
+
+cs1302-api/target/classes/cs1302:
+total 4
+drwxr-xr-x. 2 myid 4096 May  8 11:59 api
+
+cs1302-api/target/classes/cs1302/api:
+total 64
+-rw-r--r--. 1 myid 12738 May  8 11:59 ApiApp.class
+-rw-r--r--. 1 myid  1503 May  8 11:59 ApiDriver.class
+-rw-r--r--. 1 myid   423 May  8 11:59 IngredientsResponse.class
+-rw-r--r--. 1 myid   363 May  8 11:59 IngredientsResults.class
+-rw-r--r--. 1 myid   384 May  8 11:59 ItunesResponse.class
+-rw-r--r--. 1 myid   378 May  8 11:59 ItunesResult.class
+-rw-r--r--. 1 myid   330 May  8 11:59 MealsResponse.class
+-rw-r--r--. 1 myid   359 May  8 11:59 MealsResult.class
+-rw-r--r--. 1 myid  5993 May  8 11:59 OpenLibrarySearchApi.class
+-rw-r--r--. 1 myid   493 May  8 11:59 OpenLibrarySearchApi$OpenLibraryDoc.class
+-rw-r--r--. 1 myid   617 May  8 11:59 OpenLibrarySearchApi$OpenLibraryResult.class
+-rw-r--r--. 1 myid  1680 May  8 11:59 PropertiesExample.class
+
+cs1302-api/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 10 May  8 11:59 annotations
+
+cs1302-api/target/generated-sources/annotations:
+total 0
+
+cs1302-api/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 May  8 11:59 maven-compiler-plugin
+
+cs1302-api/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 May  8 11:59 compile
+
+cs1302-api/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 64 May  8 11:59 default-compile
+
+cs1302-api/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid 446 May  8 11:59 createdFiles.lst
+-rw-r--r--. 1 myid 817 May  8 11:59 inputFiles.lst
+/home/myid/cjd56448/cs1302-api:/home/myid/csci-1302
